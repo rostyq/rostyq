@@ -1,11 +1,5 @@
-### Buzzwords
+# Save lives in Ukraine! Donate to [comebackalive](https://www.comebackalive.in.ua/donate)
 
-... or what I can use:
-
-- 🐍 **python**: numpy, 🐼 pandas, tensorflow, opencv, dlib, matplotlib, plotly;
-- 🦀 **rust**: nalgebra, image-rs, wasm-bindgen (WebAssembly);
-- 📜 **javascript**: 🍣 rollup, svelte, html, css, bla-bla;
-- 📦 **other**: 📑 LaTeX, 🔬 LAMMPS.
 
 ### About me
 
@@ -18,3 +12,13 @@ This excitement led me to the web field. I implemented an eye-tracking library r
 Today I find myself as a specialist who can solve machine learning problems, design web applications, and deliver code to a production environment.
 
 In my free time, I like to play computer games and read science-fiction books. Also, I try to keep pace in becoming a better programmer by reading related textbooks and exploring modern technologies.
+
+
+### Buzzwords
+
+... or what I can use:
+
+- 🐍 **python**: numpy, 🐼 pandas, tensorflow, opencv, dlib, matplotlib, plotly;
+- 🦀 **rust**: nalgebra, image-rs, wasm-bindgen (WebAssembly);
+- 📜 **javascript**: 🍣 rollup, svelte, html, css, bla-bla;
+- 📦 **other**: 📑 LaTeX, 🔬 LAMMPS.
