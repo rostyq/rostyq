@@ -1,5 +1,7 @@
 # Save lives in Ukraine! Donate to [comebackalive](https://www.comebackalive.in.ua/donate)
 
+![ukraine flag](./ukraine_flag.png)
+
 
 ### About me
 
