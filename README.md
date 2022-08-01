@@ -3,6 +3,7 @@
 
 # Save lives in Ukraine! Donate to [Come Back Alive](https://www.comebackalive.in.ua/donate)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L041JMM)
 
 ### About me
 
