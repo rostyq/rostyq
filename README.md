@@ -1,9 +1,8 @@
 
 <img src="./ukraine_flag.png" style="width: 100%"></img>
 
-# Save lives in Ukraine! Donate to [Come Back Alive](https://www.comebackalive.in.ua/donate)
+> __Save lives in Ukraine!__ __Donate to__ [__Come Back Alive__](https://savelife.in.ua/en/)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L041JMM)
 
 ### About me
 
@@ -17,12 +16,6 @@ Today I find myself as a specialist who can solve machine learning problems, des
 
 In my free time, I like to play computer games and read science-fiction books. Also, I try to keep pace in becoming a better programmer by reading related textbooks and exploring modern technologies.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rostyq&layout=compact&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Buzzwords
-
-... or what I can use:
-
-- 🐍 **python**: numpy, 🐼 pandas, tensorflow, opencv, dlib, matplotlib, plotly;
-- 🦀 **rust**: nalgebra, image-rs, wasm-bindgen (WebAssembly);
-- 📜 **javascript**: 🍣 rollup, svelte, html, css, bla-bla;
-- 📦 **other**: 📑 LaTeX, 🔬 LAMMPS.
+<!-- [![Rosty's GitHub stats](https://github-readme-stats.vercel.app/api?username=rostyq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
